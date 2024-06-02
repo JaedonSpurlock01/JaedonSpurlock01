@@ -8,5 +8,10 @@
 
 ## How to reach me:
 Linkedin: https://www.linkedin.com/in/jaedon-spurlock
+<br/>
 Gmail: jaedonaspurlock@outlook.com
+<br/>
 Mobile phone: (760) 450-3906
+
+## Portfolio
+Want a formal presentation of my projects? Check out my [portfolio](https://jaedon.vercel.app/)
